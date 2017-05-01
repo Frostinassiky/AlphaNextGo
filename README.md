@@ -1,0 +1,2 @@
+# AlphaNextGo
+Competition for AlphaNext
